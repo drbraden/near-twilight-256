@@ -37,7 +37,7 @@ if version > 580
         syntax reset
     endif
 endif
-let g:colors_name='desert-warm-256'
+let g:colors_name='near-twilight-256'
 
 exec 'source ' . expand('<sfile>:p:h') . '/rgb_colors'
 
